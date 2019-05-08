@@ -50,3 +50,21 @@ For of statment
 for (let n = 2; n <= 20; n += 2) {
     console.log(n);
 }
+
+for (let n = 0; n >= -24; n -= 2){
+  console.log(n)
+}
+
+name = "poopbutt"
+
+for (let n = 0; )
+
+
+let name = 'eric'
+
+for( p = 0; p < name.length; p++) {
+  console.log(name[p])
+}
+
+let sum;
+for (sum = 0; sum == 1275; i++ = var p )
